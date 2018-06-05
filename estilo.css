@@ -202,7 +202,7 @@ h3{
 /* xs < 768 */
 @media screen and (max-width: 767px){
 
-	body, .capa{
+	.capa{
 	height: 100%;
 	overflow-x: hidden;
    }
