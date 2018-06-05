@@ -7,7 +7,7 @@
 
 html,body, .capa{
 	height: 100%;
-	overflow: auto;
+	
 
 }
 
@@ -21,6 +21,7 @@ html,body, .capa{
   	background-attachment: fixed; 
   	font-family: Arial, Helvetica, sans-serif;
   	overflow-x: hidden;
+	overflow: auto;
 	
 	
   	
@@ -203,6 +204,12 @@ h3{
 
 /* xs < 768 */
 @media screen and (max-width: 767px){
+	
+	body, .capa{
+	height: 100%;
+	overflow: auto;
+
+}
 
 
  h1{
