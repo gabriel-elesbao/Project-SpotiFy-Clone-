@@ -206,13 +206,17 @@ h3{
 @media screen and (max-width: 767px){
 	
 	
-	body{
+	body, .capa{
 	height: 100%;
 	overflow-x: hidden; 
 	overflow-y:visible;	
 
 }
-
+	
+ #barra-navegacao{
+    background: rgb(0,0,0,0.8); 
+    border:none;
+  }
 
  h1{
  	font-size: 50px;
