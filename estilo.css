@@ -207,8 +207,7 @@ h3{
 	
 	
 	html,body,.capa{
-	height: 100%;
-	overflow-x: hidden; 
+	height: 100%; 
 	overflow-y:scroll;	
 
 }
@@ -216,6 +215,7 @@ h3{
  #barra-navegacao{
     background: rgba(0,0,0,0.8); 
     border:none;
+    margin-bottom:-15px;
   }
 
  h1{
