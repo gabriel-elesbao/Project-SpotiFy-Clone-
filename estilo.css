@@ -206,7 +206,7 @@ h3{
 @media screen and (max-width: 767px){
 	
 	
-	body, .capa{
+	html,body,.capa{
 	height: 100%;
 	overflow-x: hidden; 
 	overflow-y:scroll;	
